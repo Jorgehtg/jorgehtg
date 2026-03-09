@@ -18,9 +18,6 @@ I'm a **Software Engineering student at the University of Brasília (UnB)**.
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## GitHub Stats📈
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgehtg&show_icons=true&theme=github_dark)
-
 ## Contact☎
 - LinkedIn: https://www.linkedin.com/in/jorge-gargalhone
 - Email: jgargalhone@gmail.com
