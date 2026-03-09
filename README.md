@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-** Software Engineering Student at the University of Brasília (UnB)
+I'm a **Software Engineering student at the University of Brasília (UnB)**.
 
 ## About me👦🏾
 - Interested in **software development, problem solving and technology**
@@ -15,8 +15,8 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## GitHub Stats📈
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jorgehtg&show_icons=true&theme=github_dark)
