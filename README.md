@@ -46,9 +46,9 @@ Aqui estão alguns dos projetos que eu participei:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-gargalhone" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:jgargalhone@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
