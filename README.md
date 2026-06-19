@@ -32,9 +32,11 @@ Aqui estão alguns dos projetos que eu participei:
 
 ### Estatísticas do GitHub
 
-
-![jorgehtg's Stats](https://github-readme-stats.vercel.app/api?username=jorgehtg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![jorgehtg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehtg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=jorgehtg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" width="60%" alt="Estatísticas do GitHub">
+<br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehtg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width="60%" alt="Linguagens Mais Usadas">
+</p>
 
 ---
 
