@@ -1,32 +1,50 @@
-## Hi there 👋
+# Olá, eu sou o Jorge!
 
-I'm a **Software Engineering student at the University of Brasília (UnB)**.
+Estudante de Engenharia de Software focado em me tornar um Desenvolvedor Backend.
 
-## About me👦🏾
-- Interested in **software development, problem solving and technology**
-- Currently learning and improving my programming skills
-- Always looking to learn new tools and technologies
+### Sobre mim
+- Atualmente cursando o quarto semestre na UnB.
+- Adoro resolver problemas e criar soluções práticas para o dia a dia.
 
-## Technologies💻
+---
+
+### Minhas tech skills
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="35" title="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" height="35" title="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" height="35" title="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" height="35" title="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" height="35" title="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="35" title="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" height="35" style="filter: invert(1);" title="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" height="35" title="Linux" />
+  <img src="https://skillicons.dev/icons?i=py,java,c,html,css,git,github,linux" />
 </p>
 
-## Contacts
+---
+
+### Projetos em Destaque
+
+Aqui estão alguns dos projetos que eu participei:
+
+1. **[EducaEnergia](https://github.com/FGA0138-MDS-Ajax/2026.1-T01-Knuth)**
+   - **O que é:** Um site focado no auxílio ao uso sustentável e limpo da energia na sociedade brasileira.
+   - **Tecnologias:** HTML, CSS, JavaScript, Node.js, Python e PostgreSQL
+
+2. **[Studify](https://github.com/LucasNF-Dev/epf-o-Studify)**
+   - **O que é:** Um site focado em auxiliar o estudante a se organizar.
+   - **Tecnologias:** HTML, CSS e Python.
+
+---
+
+### Estatísticas do GitHub
+
+
+![jorgehtg's Stats](https://github-readme-stats.vercel.app/api?username=jorgehtg&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![jorgehtg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jorgehtg&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+---
+
+### Contatos
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jorge-gargalhone" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" title="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:jgargalhone@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" alt="Gmail" height="35" title="Gmail" style="filter: invert(23%) sepia(87%) saturate(6523%) hue-rotate(352deg) brightness(96%) contrast(98%);" />
+    <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
