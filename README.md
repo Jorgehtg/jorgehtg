@@ -10,7 +10,7 @@ Estudante de Engenharia de Software focado em me tornar um Desenvolvedor Backend
 
 ### Minhas tech skills
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,c,html,css,git,github,linux" />
 </p>
 
@@ -44,7 +44,7 @@ Aqui estão alguns dos projetos que eu participei:
 
 ### Contatos
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/jorge-gargalhone" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
